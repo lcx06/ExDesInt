@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ExDesInt</string>
+
+    <!-- Header -->
+    <string name="product">Producto</string>
+    <string name="subtotal">Subtotal</string>
+
+    <!-- 1er producto -->
+    <string name="product1">Jabón de manos x 1</string>
+    <string name="price1">$2</string>
+
+    <!-- 2do producto -->
+    <string name="product2">Shampoo Monster x 1</string>
+    <string name="price2">$10</string>
+
+    <!-- 3er producto -->
+    <string name="product3">Pastas Duria x 2</string>
+    <string name="price3">$18</string>
+
+    <!-- 4to producto -->
+    <string name="product4">Detergente Limpiadin x 1</string>
+    <string name="price4">$13,4</string>
+
+    <!-- Valor del subtotal -->
+    <string name="subtotal_val">$43,4</string>
+
+    <!-- Fila para los costes de envío -->
+    <string name="shipment">Costo envío</string>
+    <string name="shipment_val">$10</string>
+
+    <!-- Fila para el cupón -->
+    <string name="coupon">Cupón</string>
+    <string name="coupon_val">-$5</string>
+
+    <!-- Fila para el total -->
+    <string name="total">Total</string>
+    <string name="total_val">$48,4</string>
+</resources>
